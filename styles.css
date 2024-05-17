@@ -516,10 +516,11 @@ width: 400px;
   }
 
   nav ul li.brand a {
-    max-width: 40%;
+    max-width: max-content;
 }  
   
   nav ul li a {
+	max-width: max-content;
     display: block;
     padding: 5px;
   }
