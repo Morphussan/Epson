@@ -526,6 +526,7 @@ width: 400px;
   }
 
   main {
+    width: fit-content;
     padding: 0px;
       column-gap: 60%;
   }
